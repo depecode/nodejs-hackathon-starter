@@ -30,13 +30,19 @@ npm install
 Run the projects by using npm start
 
 ```cmd
-npm start
+#for window
+SET DEBUG=name-of-project:* & npm start
 ```
 
-or using devstart( for windows)
+```bash
+#for mac
+DEBUG=name-of-project:* npm start
+```
+
+or using startdev( for windows)
 
  ```cmd
-SET DEBUG=project name:* npm run startdev
+SET DEBUG=name-of-project:* npm run startdev
 
 #Example
 
@@ -46,7 +52,11 @@ SET DEBUG=nodejs-hackathon-starter:* npm run startdev
  or using devstart( for mac)
 
  ```bash
-SET DEBUG=project name: npm run startdev
+DEBUG=name-of-project: npm run startdev
+
+#Example
+
+DEBUG=nodejs-hackathon-starter:* npm run startdev
  ```
 
 ## Features

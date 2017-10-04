@@ -1,8 +1,8 @@
 NodeJs BoilerPlate Starter for Projects
 ===============================================
-- Using Nodejs  [www.nodejs.com](http://nodejs.com)
-- Using express  [www.express.com](http://express.com)
-- Using pug view  [www.pug.com](http://pug.com)
+- Using Nodejs  [www.nodejs.org](https://nodejs.org)
+- Using express  [www.expressjs.com](https://expressjs.com)
+- Using pug view  [www.pugjs.org](https://pugjs.org)
 
 ## Getting started
 
@@ -53,7 +53,7 @@ SET DEBUG=project name: npm run startdev
 - More features coming rolling out soon
 
 ### Submit an issue, feedback or a feature request
-- Any issue topics are welcome.
+- Any issues or topics are welcome.
 
 ### CONTRIBUTING
  - Fork it!
